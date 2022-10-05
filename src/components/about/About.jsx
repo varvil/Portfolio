@@ -8,7 +8,7 @@ const About = () => {
   return (
     <section className="about section" id="about">
         <h2 className="section__title">About me</h2>
-        <span className="section__subtitle">My intruduction</span>
+        <span className="section__subtitle">My introduction</span>
 
         <div className="about__container container grid">
             <img src={profile} alt="" className="about__img" />
@@ -19,7 +19,7 @@ const About = () => {
                 <p className="about__description">
                 Creative and positive male from Vaasa. 
                 Technology enthusiast and a musician.
-                Currently in my fourth year of studies towards a bachelors in Computer Sciences at 
+                Currently in my fourth and final year of studies towards a bachelors degree in Computer Sciences at 
                 VAMK, University of Applied Sciences.
                 <br/>
                 <br/>

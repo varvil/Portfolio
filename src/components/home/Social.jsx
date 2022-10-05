@@ -12,7 +12,7 @@ const Social = () => {
         <i class="uil uil-linkedin-alt"></i>
         </a>
 
-        <a href="" className="home__social-icon" targer="_blank">
+        <a href="https://github.com/varvil" className="home__social-icon" targer="_blank">
         <i class="uil uil-github-alt"></i>
         </a>
 
