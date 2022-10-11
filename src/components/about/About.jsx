@@ -2,7 +2,8 @@ import React from 'react'
 import "./about.css";
 //import CV from "../../assets/CV.pdf";
 import Info from './Info';
-import profile from '../../assets/profile.jpg'
+import profile from '../../assets/profile.jpg';
+import CV from '../../assets/CV_Ville_Varjus.pdf';
 
 const About = () => {
   return (
@@ -26,7 +27,7 @@ const About = () => {
                 Mainly interested in fields of Web development & Cyber security.
                 </p>
 
-                <a download="" href="" className="button button--flex">
+                <a download="CV_Ville_Varjus" href={CV} className="button button--flex">
                 Download CV
                 </a>
 

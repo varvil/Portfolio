@@ -3,9 +3,9 @@ import React from 'react'
 const Webdev = () => {
   return (
     <div className="skills__content">
-        <h3 className="skills__title">Frontend developer</h3>
+        <h3 className="skills__title">Web development</h3>
 
-        <div className="skiklls__box">
+        <div className="skills__box">
             <div className="skills__group">
 
                 <div className="skills__data">
@@ -13,7 +13,7 @@ const Webdev = () => {
 
                     <div>
                         <h3 className="skills_name">HTML</h3>
-                        <span className="skills_level">Basic</span>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
 
@@ -49,7 +49,7 @@ const Webdev = () => {
 
                     <div>
                         <h3 className="skills_name">Git</h3>
-                        <span className="skills_level">Intermediate</span>
+                        <span className="skills_level">Basic</span>
                     </div>
                 </div>
             </div>

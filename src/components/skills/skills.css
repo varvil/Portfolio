@@ -20,7 +20,6 @@
 
 .skills__box {
     display: flex;
-    justify-content: center;
     column-gap: 2.5rem;
 }
 

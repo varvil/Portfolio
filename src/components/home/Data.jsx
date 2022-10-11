@@ -7,8 +7,6 @@ const Data = () => {
 
         <h3 className="home__subtitle">B.Sc. Student in Information Technology</h3>
         <p className="home__description">4th year student in VAMK University of Applied Sciences</p>
-
-        <a href="#Contact" className="button button--flex"> Say Hello</a>
     </div>
 
   )
